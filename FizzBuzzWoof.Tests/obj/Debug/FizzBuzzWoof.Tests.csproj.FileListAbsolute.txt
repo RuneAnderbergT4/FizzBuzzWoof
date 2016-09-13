@@ -1,0 +1,8 @@
+C:\Users\usr\Google Drive\T4\FizzBuzzWoof\FizzBuzzWoof\FizzBuzzWoof.Tests\bin\Debug\FizzBuzzWoof.Tests.dll
+C:\Users\usr\Google Drive\T4\FizzBuzzWoof\FizzBuzzWoof\FizzBuzzWoof.Tests\bin\Debug\FizzBuzzWoof.Tests.pdb
+C:\Users\usr\Google Drive\T4\FizzBuzzWoof\FizzBuzzWoof\FizzBuzzWoof.Tests\bin\Debug\FizzBuzzWoof.exe
+C:\Users\usr\Google Drive\T4\FizzBuzzWoof\FizzBuzzWoof\FizzBuzzWoof.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\usr\Google Drive\T4\FizzBuzzWoof\FizzBuzzWoof\FizzBuzzWoof.Tests\bin\Debug\FizzBuzzWoof.pdb
+C:\Users\usr\Google Drive\T4\FizzBuzzWoof\FizzBuzzWoof\FizzBuzzWoof.Tests\obj\Debug\FizzBuzzWoof.Tests.csprojResolveAssemblyReference.cache
+C:\Users\usr\Google Drive\T4\FizzBuzzWoof\FizzBuzzWoof\FizzBuzzWoof.Tests\obj\Debug\FizzBuzzWoof.Tests.dll
+C:\Users\usr\Google Drive\T4\FizzBuzzWoof\FizzBuzzWoof\FizzBuzzWoof.Tests\obj\Debug\FizzBuzzWoof.Tests.pdb
